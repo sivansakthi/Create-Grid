@@ -7,7 +7,7 @@ author= Sivansakthi SG
 email=sivansakthisgs@gmail.com
 
 
-homepage=https://github.com/sivansakthi/Create-Grid/upload/main
+homepage=github.com/sivansakthi/Create-Grid
 category=Plugins
 icon=icon.png
 # experimental flag
