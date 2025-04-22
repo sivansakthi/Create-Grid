@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/CreateGrid">
+        <file alias="CreateGridPlugin_dialog_base.ui">CreateGridPlugin_dialog_base.ui</file>
+        <file alias="icon.png">icon.png</file>  <!-- Correct path to icon.png -->
+    </qresource>
+</RCC>

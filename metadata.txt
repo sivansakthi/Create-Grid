@@ -1,0 +1,14 @@
+[general]
+name=Create Grid
+description=Plugin to create a grid of polygons within a selected polygon layer
+version=1.0
+qgisMinimumVersion=3.0
+author= Sivansakthi SG
+email=sivansakthisgs@gmail.com
+
+
+homepage=https://github.com/sivansakthi/Create-Grid/upload/main
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
